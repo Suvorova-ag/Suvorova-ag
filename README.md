@@ -14,7 +14,7 @@
 </a> 
 
 <a href="https://www.atlassian.com/software/jira" target="_blank" rel="noreferrer"> 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jira/jira-original-wordmark.svg" alt="Jira" width="50" height="50"/> 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jira/jira-original.svg" alt="Jira" width="50" height="50"/> 
 </a> 
 
 <a href="https://www.testrail.com/" target="_blank" rel="noreferrer"> 
