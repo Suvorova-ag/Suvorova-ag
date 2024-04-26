@@ -18,7 +18,7 @@
 </a> 
 
 <a href="https://www.testrail.com/" target="_blank" rel="noreferrer"> 
-<img src="https://authenticator.2stable.com/assets/img/2fa-services/Icons/testrail.com.svg" alt="TestRail" width="50" height="50"/> 
+<img src="https://www.testrail.com/wp-content/uploads/2023/03/TestRail-table-logo.svg" alt="TestRail" width="50" height="50"/> 
 </a> 
 
 <a href="https://developer.apple.com/testflight/">
