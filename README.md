@@ -66,6 +66,10 @@
 <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" alt="ChatGPT" width="50" height="50"/> 
 </a> 
 
+<a href="https://cursor.com/agents" target="_blank" rel="noreferrer"> 
+<img src="https://upload.wikimedia.org/wikipedia/commons/e/e1/Cursor_logo.png" alt="ChatGPT" width="50" height="50"/> 
+</a> 
+
 <a href="https://chat.openai.com/" target="_blank" rel="noreferrer"> 
 <img src="https://upload.wikimedia.org/wikipedia/commons/0/04/ChatGPT_logo.svg" alt="ChatGPT" width="50" height="50"/> 
 </a> 
