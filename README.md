@@ -57,6 +57,11 @@
 <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> 
 <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="Figma" width="50" height="50"/> 
 </a> 
+
+<a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"> 
+<img src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Visual_Studio_Code_1.35_icon.svg" alt="ChatGPT" width="50" height="50"/> 
+</a> 
+
 <a href="https://chat.openai.com/" target="_blank" rel="noreferrer"> 
 <img src="https://upload.wikimedia.org/wikipedia/commons/0/04/ChatGPT_logo.svg" alt="ChatGPT" width="50" height="50"/> 
 </a> 
