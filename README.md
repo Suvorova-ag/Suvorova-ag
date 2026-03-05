@@ -42,6 +42,10 @@
 <img src="https://www.testrail.com/wp-content/uploads/2023/03/TestRail-table-logo.svg" alt="TestRail" width="50" height="50"/> 
 </a> 
 
+<a href="https://www.testrail.com/" target="_blank" rel="noreferrer"> 
+<img src="https://www.testrail.com/wp-content/uploads/2023/03/TestRail-table-logo.svg" alt="TestRail" width="50" height="50"/> 
+</a> 
+
 <a href="https://developer.apple.com/testflight/">
 <img src="https://github.com/qajenna/qajenna/blob/main/icons/Testflight.png" alt="Testflight" width="50" height="50" />
 </a> 
@@ -60,6 +64,10 @@
 
 <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"> 
 <img src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Visual_Studio_Code_1.35_icon.svg" alt="ChatGPT" width="50" height="50"/> 
+</a> 
+
+<a href="https://www.python.org/" target="_blank" rel="noreferrer"> 
+<img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" alt="ChatGPT" width="50" height="50"/> 
 </a> 
 
 <a href="https://chat.openai.com/" target="_blank" rel="noreferrer"> 
