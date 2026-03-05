@@ -42,10 +42,6 @@
 <img src="https://www.testrail.com/wp-content/uploads/2023/03/TestRail-table-logo.svg" alt="TestRail" width="50" height="50"/> 
 </a> 
 
-<a href="https://www.testrail.com/" target="_blank" rel="noreferrer"> 
-<img src="https://www.testrail.com/wp-content/uploads/2023/03/TestRail-table-logo.svg" alt="TestRail" width="50" height="50"/> 
-</a> 
-
 <a href="https://developer.apple.com/testflight/">
 <img src="https://github.com/qajenna/qajenna/blob/main/icons/Testflight.png" alt="Testflight" width="50" height="50" />
 </a> 
