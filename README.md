@@ -27,52 +27,30 @@
 <a href="https://www.linkedin.com/in/alla-suvorova-9b606125" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Alla Suvorova" height="30" width="40" /></a>
 </p>
 
-<h3 align="left">🛠 Tools:</h3>
+<h3 align="left"> Tools:</h3>
 
 <p align="left">
-
-<a href="https://postman.com" target="_blank">
-  <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" width="50" height="50"/>
+<a href="https://postman.com" style="display:inline-block;">
+<img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="50"/>
+</a><a href="https://www.atlassian.com/software/jira" style="display:inline-block;">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jira/jira-original.svg" width="50"/>
+</a><a href="https://www.testrail.com/" style="display:inline-block;">
+<img src="https://www.testrail.com/wp-content/uploads/2023/03/TestRail-table-logo.svg" width="50"/>
+</a><a href="https://developer.apple.com/testflight/" style="display:inline-block;">
+<img src="https://raw.githubusercontent.com/qajenna/qajenna/main/icons/Testflight.png" width="50"/>
+</a><a href="https://swagger.io/" style="display:inline-block;">
+<img src="https://raw.githubusercontent.com/qajenna/qajenna/main/icons/swagger.png" width="50"/>
+</a><a href="https://zeplin.io/" style="display:inline-block;">
+<img src="https://raw.githubusercontent.com/qajenna/qajenna/main/icons/Zeplin.png" width="50"/>
+</a><a href="https://www.figma.com/" style="display:inline-block;">
+<img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" width="50"/>
+</a><a href="https://code.visualstudio.com/" style="display:inline-block;">
+<img src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Visual_Studio_Code_1.35_icon.svg" width="50"/>
+</a><a href="https://www.python.org/" style="display:inline-block;">
+<img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" width="50"/>
+</a><a href="https://cursor.com/agents" style="display:inline-block;">
+<img src="https://upload.wikimedia.org/wikipedia/commons/e/e1/Cursor_logo.png" width="50"/>
+</a><a href="https://chat.openai.com/" style="display:inline-block;">
+<img src="https://upload.wikimedia.org/wikipedia/commons/0/04/ChatGPT_logo.svg" width="50"/>
 </a>
-
-<a href="https://www.atlassian.com/software/jira" target="_blank">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jira/jira-original.svg" alt="Jira" width="50" height="50"/>
-</a>
-
-<a href="https://www.testrail.com/" target="_blank">
-  <img src="https://www.testrail.com/wp-content/uploads/2023/03/TestRail-table-logo.svg" alt="TestRail" width="50" height="50"/>
-</a>
-
-<a href="https://developer.apple.com/testflight/">
-  <img src="https://raw.githubusercontent.com/qajenna/qajenna/main/icons/Testflight.png" alt="TestFlight" width="50" height="50"/>
-</a>
-
-<a href="https://swagger.io/">
-  <img src="https://raw.githubusercontent.com/qajenna/qajenna/main/icons/swagger.png" alt="Swagger" width="50" height="50"/>
-</a>
-
-<a href="https://zeplin.io/">
-  <img src="https://raw.githubusercontent.com/qajenna/qajenna/main/icons/Zeplin.png" alt="Zeplin" width="50" height="50"/>
-</a>
-
-<a href="https://www.figma.com/" target="_blank">
-  <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="Figma" width="50" height="50"/>
-</a>
-
-<a href="https://code.visualstudio.com/" target="_blank">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Visual_Studio_Code_1.35_icon.svg" alt="VS Code" width="50" height="50"/>
-</a>
-
-<a href="https://www.python.org/" target="_blank">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" alt="Python" width="50" height="50"/>
-</a>
-
-<a href="https://cursor.com/agents" target="_blank">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/e/e1/Cursor_logo.png" alt="Cursor" width="50" height="50"/>
-</a>
-
-<a href="https://chat.openai.com/" target="_blank">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/0/04/ChatGPT_logo.svg" alt="ChatGPT" width="50" height="50"/>
-</a>
-
 </p>
