@@ -17,7 +17,7 @@
 <p>I have extensive experience in team work in the information field (more than 18 years) and 4 years of experience in software testing. I have experience in Web testing, mobile testing (iOS and Android), and API-testing. Extensive experience in working at the highest quality standards, including managing the creation of a website, content, website support for one of the largest energy companies in the world - PJSC FGC UES (now PJSC Rosseti).</p>
     
 <h2>Personal Qualities</h2>
-<p>I am an adult, experienced professional with good communication and teamwork skills.</p>
+<p>I am an experienced professional with good communication and teamwork skills.</p>
 
 <h2>Location & Availability</h2>
 <p>I live in Espoo, Finland. Ready for remote, hybrid, and office work. I have a Finnish work permit. Spoken English and Finnish at level B1.1.</p>
